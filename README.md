@@ -7,8 +7,8 @@ viewing answers, and getting AI-generated responses to custom questions.
 Includes secure password hashing with bcrypt and persistent storage for personalized study sessions.
 Key Features:
 
-AI-generated flashcards on any subject (up to 30 per set)
-Dual authentication: email/password or Google Sign-In
-Save, browse, and delete favorite flashcards
-Q&A assistant for instant answers
-Secure local database storage
+AI-generated flashcards on any subject (up to 30 per set); 
+Dual authentication: email/password or Google Sign-In; 
+Save, browse, and delete favorite flashcards; 
+Q&A assistant for instant answers; 
+Secure local database storage; 
