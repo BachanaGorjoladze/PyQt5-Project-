@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/login_signup.jpg</file>
+    <file>images/main_back.jpg</file>
+    <file>images/Google_icon.png</file>
+    <file>images/main_icon.png</file>
+  </qresource>
+</RCC>
